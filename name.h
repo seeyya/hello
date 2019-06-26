@@ -9,4 +9,7 @@
 ================================================================*/
 
 
-class name char
+class name char{
+	char first_name;
+	char last_name;
+}
