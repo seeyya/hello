@@ -24,4 +24,5 @@ int main()
 	name usrname();
 	std::cin >> usrname;
 	std::cout << "hello, " << usrname << std::endl;
+	return();
 }
